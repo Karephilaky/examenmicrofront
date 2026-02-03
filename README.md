@@ -162,21 +162,6 @@ alert_dashboard: "http://localhost:4175/assets/remoteEntry.js"
 - Alert Dashboard reacciona en tiempo real
 - Arquitectura desacoplada y defendible
 
----
-
-## 🎓 Explicación para Defensa / Examen
-
-> *“La comunicación entre microfrontends se realiza mediante eventos del navegador, evitando acoplamiento directo. Debido a limitaciones del modo desarrollo en Vite, los remotes se sirven mediante build y preview, simulando un entorno real de producción.”*
-
----
-
-## 📸 Evidencias a Entregar
-
-- Captura del Host mostrando ambos microfrontends
-- Captura del Dashboard reaccionando a una alerta
-- Enlace al repositorio con este README
-
----
 
 **Autor:**  
-Arquitectura Microfrontend – Evaluación Práctica  
+Johannes Carofilis
